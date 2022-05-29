@@ -4,11 +4,15 @@ View the Scottish Episcopal Church digital calendar and lectionary in a Windows 
 
 ![screenshot](images/screenshot.png)
 
+`⚠ WARNING This Windows Sidebar Gadget is still in beta. It may still need some cosmetic tweaks.`
+
 Windows Vista and Windows 7 supported Sidebar Gadgets, mini applications that sat on the desktop or on a sidebar. These are still available in Windows 7, 8, 8.1, 10 and 11 by installing the application [8GadgetPack](https://8gadgetpack.net/).
 
 ## How it works
 
 The gadget displays the latest information from the [SEC digital calendar](https://www.seccalendar.org.uk/) website.
+
+Long feast day names and descriptions will be truncated. This is expected behaviour.
 
 Hover over the feast day to view more information in a tooltip. This will show:
 
