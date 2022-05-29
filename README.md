@@ -25,7 +25,7 @@ Currently, the gadget does not automatically update after midnight. To manually 
 ## Installation
 
 1. Download and install [8GadgetPack](https://8gadgetpack.net/).
-2. Download `SECdigitalCalendar-v1.0.0.gadget` from this repository and double-click the icon to install.
+2. Download [`SECdigitalCalendar-v1.0.0.gadget`](https://github.com/garethjmsaunders/sec-digital-calendar-windows-sidebar-gadget/blob/main/SECdigitalCalendar-v1.0.0.gadget?raw=true) from this repository and double-click the icon to install.
 3. Right-click the desktop and select Gadgets.
 4. Navigate to the SEC digital calendar gadget and either right-click and select Add or drag-and-drop the gadget onto your desktop.
 
